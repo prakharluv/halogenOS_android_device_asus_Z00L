@@ -17,7 +17,7 @@
   {
     "repository": "proprietary_vendor_asus",
     "target_path": "vendor/asus",
-    "revision": "oct-14.1"
+    "revision": "cm-14.1"
   },
   {
     "repository": "proprietary_vendor_qcom_binaries",
